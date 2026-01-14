@@ -6,7 +6,7 @@
 
 点击下方按钮一键部署到 Vercel：
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/YOUR_USERNAME/duckduckgo-proxy-api-vercel)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/HArars/duckduckgo-proxy-api-vercel)
 
 **环境变量配置：**
 - `SECRET_KEY`：API 授权密钥（必需）
